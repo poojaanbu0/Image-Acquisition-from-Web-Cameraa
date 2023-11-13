@@ -1,20 +1,22 @@
 # Image-Acquisition-from-Web-Camera
 ## Aim
- 
-Aim:
- 
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
+
 i) Write the frame as JPG 
+
 ii) Display the video 
+
 iii) Display the video by resizing the window
+
 iv) Rotate and display the video
 
 ## Software Used
 Anaconda - Python 3.7
+
 ## Algorithm
 ### Step 1:
-
 Import cv2 and capture the video using cv2.VideoCapture(0).
+
 ### Step 2:
 Write the captured image using cv2.imwrite("NewPicture.jpg",frame).
 
@@ -108,44 +110,19 @@ cv2.destroyAllWindows()
 
 
 
-
-
-
-
 ```
 ## Output
-
 ### i) Write the frame as JPG image
-</br>
-
-![](NewPicture.jpg)
-
-</br>
-
+![WhatsApp Image 2023-11-14 at 02 43 07_1cf1dcf7](https://github.com/poojaanbu0/Image-Acquisition-from-Web-Cameraa/assets/119390329/bc0aca6d-35e5-4118-b2ec-4e38b00afb24)
 
 ### ii) Display the video
-</br>
-
-![](Car2.jpg)
-</br>
-
+![WhatsApp Image 2023-11-14 at 02 42 36_a870daa2](https://github.com/poojaanbu0/Image-Acquisition-from-Web-Cameraa/assets/119390329/7c0630b8-82b0-43b6-953c-cc23d8332ca6)
 
 ### iii) Display the video by resizing the window
-</br>
-
-![](Car3.jpg)
-</br>
-
-
+![WhatsApp Image 2023-11-14 at 02 42 12_50479f72](https://github.com/poojaanbu0/Image-Acquisition-from-Web-Cameraa/assets/119390329/18874d72-5561-4a5b-8580-0b64618a808e)
 
 ### iv) Rotate and display the video
-</br>
-
-![](bat4.jpg)
-
-</br>
-
-
+![WhatsApp Image 2023-11-14 at 02 41 47_37d261e1](https://github.com/poojaanbu0/Image-Acquisition-from-Web-Cameraa/assets/119390329/5cdee36c-a3c4-40c1-b222-e2ee252c96e7)
 
 
 
